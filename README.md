@@ -1,2 +1,2 @@
 # reinforcement-learning
-Repository for reinforcement learning projects
+Cartpole using XGBoost classifier
